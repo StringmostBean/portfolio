@@ -623,4 +623,7 @@ iframe{
         position: relative;
         top: 15vh;
     }
+    .introduce{
+        width: 100vw;
+    }
 }
