@@ -383,7 +383,7 @@
   
   /* 스크롤바 생성 */
   .scroll {
-    width: 300px;
+    width: 100vw;
     height: 300px;
     overflow-y: scroll;
   }
@@ -624,6 +624,6 @@ iframe{
         top: 15vh;
     }
     .introduce{
-        width: 100vw;
+        width: 100%;
     }
 }
